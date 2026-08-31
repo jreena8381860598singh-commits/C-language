@@ -1,2 +1,2 @@
 # C-language
-everyt hing i learn in C language
+everything i learn in C language
